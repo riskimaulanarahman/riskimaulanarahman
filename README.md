@@ -43,7 +43,3 @@ FullStack Developer lives in Balikpapan, Indonesia.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/SQLServer-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-### NoSQL :
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
