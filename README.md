@@ -35,7 +35,6 @@ FullStack Developer lives in Balikpapan, Indonesia.
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-DDDDDD?style=flat-square&logo=apple&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-212529?style=flat-square&logo=fedora&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ## DBMS
@@ -43,7 +42,7 @@ FullStack Developer lives in Balikpapan, Indonesia.
 ### SQL :
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/microsoftsqlserver-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
 ### NoSQL :
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
