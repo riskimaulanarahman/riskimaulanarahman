@@ -1,9 +1,9 @@
-Frontend Developer at BerandaToko lives in Balikpapan, Indonesia. Has 12 years of experience in the IT fields, and 6 years as a Software Developer.
+FullStack Developer lives in Balikpapan, Indonesia.
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kasful.bpp@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasfulkurniawan/)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:riskimaulanarahman@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riskimaulanarahman/)
 
-![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasfulk&layout=compact)
+![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riskimaulanarahman&layout=compact)
 
 ## Languages:
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -14,7 +14,6 @@ Frontend Developer at BerandaToko lives in Balikpapan, Indonesia. Has 12 years o
 ![ShellScript](https://img.shields.io/badge/ShellScript-000000?style=flat-square&logo=linux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-239120?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ## Frameworks:
 
