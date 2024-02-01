@@ -22,7 +22,7 @@ FullStack Developer lives in Balikpapan, Indonesia.
 ![Express JS](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=flat-square&logo=laravel&logoColor=white)
 ![Codeigniter](https://img.shields.io/badge/Codeigniter-DD4814?style=flat-square&logo=codeigniter&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-42b883?style=flat-square&logo=vue&logoColor=white)\
+![Vue](https://img.shields.io/badge/Vue-42b883?style=flat-square&logo=vue&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
