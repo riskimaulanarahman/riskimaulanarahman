@@ -69,3 +69,17 @@ Which is expected that the presence of this application can help the development
 [Link App](https://play.google.com/store/apps/details?id=com.lollipop.sidatabangda) | [Link Web](https://sidatabangda.balikpapan.go.id/login)
 
 ---
+
+### IKKAM Polresta Balikpapan
+![Screenshot Aplikasi/Web](https://pinday.top/image/ikkam.jpg)
+
+IKKAM POLRESTA BALIKPAPAN, an abbreviation of Internal Command and Schedule, is a scheduling application designed to meet the special needs of POLRESTA BALIKPAPAN. With a primary focus on optimizing internal processes, the app aims to improve coordination, communication and overall efficiency within the police department.
+
+**Platform:**
+- Frontend: [Flutter/Dart]
+- Backend: [NodeJS]
+- Database: [mySQL]
+
+[Link App](https://play.google.com/store/apps/details?id=co.satintelkom.sat_intelkom)
+
+---
