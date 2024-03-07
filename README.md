@@ -41,3 +41,32 @@ FullStack Developer lives in Balikpapan, Indonesia.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/SQLServer-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+## Portofolio
+
+### eDatabase
+
+<img src="https://pinday.co.id/img/edatabase.png" alt="Screenshot Aplikasi/Web" width="400">
+
+The eDatabase application system was built for the Development of Development Planning Results Documentation in the form of numerical and spatial data
+
+The purpose of building this application is to support the availability of data and information on regional development that is accurate, spatial, up-to-date, and can be accounted for to improve the quality of planning, control and evaluation of regional development
+
+Development planners are formulated in a measurable and environmentally friendly manner.
+
+In general, the application consists of 3 main components:
+
+1. Building Data
+2. Household Data
+3. Member Data (Occupants)
+
+Which is expected that the presence of this application can help the development of the city of Balikpapan to be even better.
+
+**Platform:**
+- Frontend: [Kotlin & Laravel]
+- Backend: [PHP/Laravel]
+- Database: [mySQL]
+
+[Link App](https://play.google.com/store/apps/details?id=com.lollipop.sidatabangda) | [Link Web](https://sidatabangda.balikpapan.go.id/login)
+
+---
