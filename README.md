@@ -45,7 +45,7 @@ FullStack Developer lives in Balikpapan, Indonesia.
 ## Portofolio
 
 ### eDatabase
-
+![Screenshot Aplikasi/Web](https://pinday.co.id/img/edatabase.png) 
 <img src="https://pinday.co.id/img/edatabase.png" alt="Screenshot Aplikasi/Web" width="400">
 
 The eDatabase application system was built for the Development of Development Planning Results Documentation in the form of numerical and spatial data
