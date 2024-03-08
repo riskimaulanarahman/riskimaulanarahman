@@ -49,20 +49,20 @@ FullStack Developer lives in Balikpapan, Indonesia.
 Tarif Per Proyek:
 
 **Website Pribadi:**
-Mulai dari **Rp 2.500.000**
-Termasuk: Desain responsif, 5 halaman konten, formulir kontak, integrasi media sosial, dan pelatihan dasar.
+- Mulai dari **Rp 2.500.000**
+- Termasuk: Desain responsif, 5 halaman konten, formulir kontak, integrasi media sosial, dan pelatihan dasar.
 
 **Web Tools:**
-Mulai dari **Rp 3.000.000**
-Termasuk: Desain responsif, konten, dan pelatihan dasar.
+- Mulai dari **Rp 3.000.000**
+- Termasuk: Desain responsif, konten, dan pelatihan dasar.
 
 **Aplikasi Mobile (iOS/Android):**
-Mulai dari **Rp 5.000.000**
-Termasuk: Desain UI/UX, pengembangan aplikasi, integrasi dengan backend, uji coba, dan peluncuran di App Store/Google Play Store.
+- Mulai dari **Rp 5.000.000**
+- Termasuk: Desain UI/UX, pengembangan aplikasi, integrasi dengan backend, uji coba, dan peluncuran di App Store/Google Play Store.
 
 **Biaya Tambahan:**
-Dukungan Tambahan: Rp 100.000 per jam
-Pemeliharaan Bulanan: Mulai dari Rp 200.000 per bulan
+- Dukungan Tambahan: Rp 100.000 per jam
+- Pemeliharaan Bulanan: Mulai dari Rp 200.000 per bulan
 
 ---
 
