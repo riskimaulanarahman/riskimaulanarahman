@@ -113,7 +113,7 @@ The Monitoring and Management System for ASTRA MOTOR Branch Dealers in East Kali
 ---
 
 ### SINAR LAUT KSOP KELAS 1 Balikpapan
-![Screenshot Aplikasi/Web](https://pinday.top/image/astramotorkaltim.jpg)
+![Screenshot Aplikasi/Web](https://pinday.top/image/sinarlautksop.jpg)
 
 SINAR LAUT KSOP Class 1 Balikpapan is a portal that provides access to various systems related to maritime activities in the Balikpapan region. This system aims to facilitate various processes and procedures related to the safety and security of shipping operations in the area. Through this portal, users can access information about Standard Operating Procedures (SOPs) and other relevant systems related to maritime activities, making it easier for stakeholders to carry out their activities more efficiently and organized.
 
