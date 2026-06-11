@@ -128,4 +128,75 @@ SINAR LAUT KSOP Class 1 Balikpapan is a portal that provides access to various s
 
 ---
 
+### CV Raih Globalindo Mandiri
+![Screenshot Aplikasi/Web](https://pinday.top/image/rgmlogistik.jpg)
+
+CV Raih Globalindo Mandiri (RGM Logistik) is a company profile website for a logistics and freight forwarding company based in Indonesia. The website presents the company's services, fleet, and contact information to attract potential clients and strengthen the company's digital presence in the logistics industry.
+
+**Platform:**
+- Frontend: [HTML5, CSS3, JavaScript, Bootstrap]
+- Backend: [PHP/Laravel]
+- Database: [mySQL]
+
+[Link Web](https://rgm-logistik.com/)
+
+---
+
+### PT Catur Pilar Sejati
+![Screenshot Aplikasi/Web](https://pinday.top/image/cpsmining.jpg)
+
+PT Catur Pilar Sejati is a company profile website for a mining company operating in Indonesia. The site showcases the company's services, operational scope, and corporate identity to strengthen their digital presence in the mining sector.
+
+**Platform:**
+- Frontend: [HTML5, CSS3, JavaScript, Bootstrap]
+- Backend: [PHP/Laravel]
+- Database: [mySQL]
+
+[Link Web](https://cpsmining.co.id/)
+
+---
+
+### Pemerintah Kota Palu, Sulawesi Tengah
+![Screenshot Aplikasi/Web](https://pinday.top/image/pemkotpalu.jpg)
+
+A government web portal for the City of Palu, Central Sulawesi, designed to provide citizens with easy access to government services, official news, and public information. The portal serves as the digital face of the municipal government to improve public communication and administrative transparency.
+
+**Platform:**
+- Frontend: [HTML5, CSS3, JavaScript, Bootstrap]
+- Backend: [PHP/Laravel]
+- Database: [mySQL]
+
+---
+
+### Nasional Pos
+![Screenshot Aplikasi/Web](https://pinday.top/image/nasionalpos.jpg)
+
+Nasional Pos is a digital news platform covering national and regional news across Indonesia. The website delivers up-to-date journalism with a clean, reader-friendly interface, category-based navigation, and a content management system for editorial teams to publish efficiently.
+
+**Platform:**
+- Frontend: [WordPress / PHP]
+- Backend: [WordPress / PHP]
+- Database: [mySQL]
+
+[Link Web](https://nasionalpos.co/)
+
+---
+
+### TOGA POS Platform
+![Screenshot Aplikasi/Web](https://pinday.top/image/togapos.jpg)
+
+TOGA POS is a multi-industry Point of Sale platform developed for TOGA Gold Area, covering three business verticals: F&B, Billiard, and Beauty Services. Each system is tailored to the specific operational needs of its industry, featuring transaction management, product & inventory control, cashier operations, and detailed business reporting.
+
+**Products:**
+- [TOGA POS F&B](https://app-pos.togoldarea.com/) — Order & cashier management for food and beverage businesses
+- [TOGA POS Billiard](https://pos.togoldarea.com/) — Table session tracking, billing, and reporting for billiard venues
+- [TOGA POS Rupa](https://rupa.togoldarea.com/) — Service-based POS for salons, barbershops, and beauty clinics
+
+**Platform:**
+- Frontend: [Vue.js / Nuxt.js]
+- Backend: [Laravel]
+- Database: [mySQL]
+
+---
+
 **and many more**
