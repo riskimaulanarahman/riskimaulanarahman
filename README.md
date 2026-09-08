@@ -143,17 +143,6 @@ Project: eDatabase BAPPEDA (Development Planning Documentation System)
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Riski's GitHub stats](https://github-readme-stats.vercel.app/api?username=riskimaulanarahman&show_icons=true&theme=default&hide_title=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riskimaulanarahman&layout=compact)
-
-</div>
-
-> ⚠️ Widget di atas otomatis membaca aktivitas repo publik dari akun GitHub `riskimaulanarahman` — sesuaikan username jika berbeda dari akun GitHub Anda yang sebenarnya.
-
 <div align="center">
 
 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/riskimaulanarahman) · riskimaulanarahman@gmail.com
